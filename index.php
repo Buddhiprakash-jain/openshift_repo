@@ -1,5 +1,5 @@
 <?php
   
-print "Hello !! End-to-End automation by Open";
+print "Hello !! End-to-End automation by Opn";
 
 ?>
