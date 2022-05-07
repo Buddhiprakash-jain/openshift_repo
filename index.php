@@ -1,5 +1,5 @@
 <?php
   
-print "Hello World new!! End-to-End automation by Openshift playground!!";
+print "Hello World PHP!!";
 
 ?>
